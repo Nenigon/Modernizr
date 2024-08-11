@@ -52,7 +52,7 @@
     "lodash": "^4.17.21",
     "markdown-it": "^13.0.1",
     "mkdirp": "^3.0.1",
-    "requirejs": "^2.3.6",
+    "requirejs": "^2.3.7",
     "yargs": "^17.7.2"
   },
   "devDependencies": {
