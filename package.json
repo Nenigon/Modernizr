@@ -49,7 +49,7 @@
   "dependencies": {
     "doctrine": "^3.0.0",
     "file": "^0.2.2",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "markdown-it": "^13.0.1",
     "mkdirp": "^3.0.1",
     "requirejs": "^2.3.6",
